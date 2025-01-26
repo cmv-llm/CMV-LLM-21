@@ -12,6 +12,7 @@ The results demonstrate that our CMV-LLM generates content more accurately refle
 The CMV-LLM model is available on Hugging Face for easy access and deployment:
 
 - **Model on Hugging Face:** [CMV-LLM on Hugging Face](https://huggingface.co/gotime/CMV-LLM)
+- **Dataset on Hugging Face:** [CMV-LLM-Dataset on Hugging Face](https://huggingface.co/datasets/gotime/CMV-LLM-Dataset)
 
 ## Potential Risks and Warnings
 
